@@ -1,12 +1,9 @@
 # luzprofile
 
 <!--
-    Hey there, I'm Daria Stanilevici!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+    Hey there, I'm Luz Mariel Rosario!
+    Backend and Database Developer!
+     :))
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
@@ -28,7 +25,7 @@
 -->
 
 ### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. 
 
 <!--
      This is the list of my skills and tools I am studying!
@@ -54,13 +51,13 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </a>
 </div>
 
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
+<!-- You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
 I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 Check out my latest post 👇<br>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Medium Article">
   </a>
-<br>
+<br> -->
 
 <!--
      Fast links to my socials!
