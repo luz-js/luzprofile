@@ -100,35 +100,6 @@ Features include:
 
 ---
 
-# 💼 Featured Projects
-
-## 🎵 HarmonyHub
-
-A complete platform for musicians and bands built with modern technologies.
-
-**Stack**
-
-- Next.js
-- Node.js
-- PostgreSQL
-- Prisma
-- React Query
-
----
-
-## 🏦 Oracle BPM Engine
-
-A configurable workflow engine focused on enterprise and banking environments.
-
-**Stack**
-
-- Oracle Database
-- PL/SQL
-- Oracle Forms
-- Oracle Cloud
-
----
-
 # 🌱 Currently Learning
 
 - Software Architecture
