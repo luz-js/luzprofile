@@ -98,18 +98,6 @@ Features include:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luz-js&layout=compact&theme=tokyonight"/>
 
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=luz-js&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 💼 Featured Projects
